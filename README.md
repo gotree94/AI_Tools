@@ -2,7 +2,7 @@
 
 ---
 
-# 구글 무료 AI 툴 15개
+## 구글 무료 AI 툴 15개
 
 무조건 즐겨찾기 해두시고 공부해 보세요. 
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 01. Project Genie
+### 01. Project Genie
 
 https://labs.google/projectgenie
 
@@ -19,7 +19,7 @@ https://labs.google/projectgenie
 
 ---
 
-## 02. Opal
+### 02. Opal
 
 https://opal.google/landing/
 
@@ -28,7 +28,7 @@ https://opal.google/landing/
 
 ---
 
-## 03. Antigravity
+### 03. Antigravity
 
 https://antigravity.google/
 
@@ -37,7 +37,7 @@ https://antigravity.google/
 
 ---
 
-## 04. Google Whisk
+### 04. Google Whisk
 
 https://labs.google/fx/tools/whisk
 
@@ -46,7 +46,7 @@ https://labs.google/fx/tools/whisk
 
 ---
 
-## 05. Google Flow
+### 05. Google Flow
 
 https://labs.google/fx/ko/tools/flow
 
@@ -55,7 +55,7 @@ https://labs.google/fx/ko/tools/flow
 
 ---
 
-## 06. Google Mixboard
+### 06. Google Mixboard
 
 https://labs.google.com/mixboard/welcome
 
@@ -64,7 +64,7 @@ https://labs.google.com/mixboard/welcome
 
 ---
 
-## 07. Google AI Studio
+### 07. Google AI Studio
 
 https://aistudio.google.com/
 
@@ -73,7 +73,7 @@ https://aistudio.google.com/
 
 ---
 
-## 08. Pomelli
+### 08. Pomelli
 
 https://labs.google.com/pomelli/about/
 
@@ -91,7 +91,7 @@ https://notebooklm.google/
 
 ---
 
-## 10. Google Stitch
+### 10. Google Stitch
 
 https://stitch.withgoogle.com/
 
@@ -100,7 +100,7 @@ https://stitch.withgoogle.com/
 
 ---
 
-## 11. Doppl
+### 11. Doppl
 
 https://labs.google/doppl/
 
@@ -109,7 +109,7 @@ https://labs.google/doppl/
 
 ---
 
-## 12. Google Food Mood
+### 12. Google Food Mood
 
 https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en
 
@@ -118,7 +118,7 @@ https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en
 
 ---
 
-## 13. Google Vids
+### 13. Google Vids
 
 https://workspace.google.com/intl/ko/products/vids/
 
@@ -127,7 +127,7 @@ https://workspace.google.com/intl/ko/products/vids/
 
 ---
 
-## 14. Google Firebase
+### 14. Google Firebase
 
 https://firebase.google.com/?hl=ko
 
@@ -136,7 +136,7 @@ https://firebase.google.com/?hl=ko
 
 ---
 
-## 15. Google Disco
+### 15. Google Disco
 
 https://labs.google/disco/
 
