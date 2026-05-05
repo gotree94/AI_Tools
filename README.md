@@ -10,8 +10,6 @@
 
 ---
 
-![01.png](attachment:ed7a24b9-39da-49cc-87a4-f5ee50130f0a:01.png)
-
 ## 01. Project Genie
 
 https://labs.google/projectgenie
@@ -20,8 +18,6 @@ https://labs.google/projectgenie
 - 단순히 보기만 하는 영상(Video)을 만드는 것이 아니라, 사용자가 키보드나 마우스로 캐릭터를 움직이면 그 움직임에 맞춰 다음 장면과 경로를 AI가 실시간으로 계산해서 그려내기 때문에, 마치 즉석에서 만들어진 게임 속 세상을 여행하는 듯한 경험을 제공합니다.
 
 ---
-
-![06.png](attachment:bd4ca496-7e18-42e8-8c8b-e23c72c74c73:06.png)
 
 ## 02. Opal
 
@@ -32,8 +28,6 @@ https://opal.google/landing/
 
 ---
 
-![07.png](attachment:b4f6ed39-6fa1-48b5-ba0e-939e6f13077b:07.png)
-
 ## 03. Antigravity
 
 https://antigravity.google/
@@ -42,8 +36,6 @@ https://antigravity.google/
 - 기존의 코딩 어시스턴트(GitHub Copilot 등)가 코드를 추천하는 '조수' 역할에 그쳤다면, Antigravity는 스스로 계획을 세우고 실행한 뒤 결과물(Artifacts)까지 검증해 보고하는 '팀원' 역할을 수행합니다.
 
 ---
-
-![09.png](attachment:00638700-5d21-473e-9e6a-42c3ee3d4b89:09.png)
 
 ## 04. Google Whisk
 
@@ -54,8 +46,6 @@ https://labs.google/fx/tools/whisk
 
 ---
 
-![04.png](attachment:f13785d1-9c0b-42fa-b74b-8d9018cd8801:04.png)
-
 ## 05. Google Flow
 
 https://labs.google/fx/ko/tools/flow
@@ -64,8 +54,6 @@ https://labs.google/fx/ko/tools/flow
 - 이전 답변에서 제가 '워크플로우 시각화'라고 설명했던 부분은 일반적인 AI 설계 도구의 특징이었으나, 현재 구글 랩스(Google Labs)의 Flow는 철저하게 전문가급 영상 제작에 특화되어 있습니다. 특히 2026년 업데이트를 통해 Whisk와 ImageFX 기능이 Flow 안으로 통합되어 더 강력해졌습니다.
 
 ---
-
-![15.png](attachment:eb45dcd5-bccd-4c74-bad1-ad3fedb93ba8:15.png)
 
 ## 06. Google Mixboard
 
@@ -76,8 +64,6 @@ https://labs.google.com/mixboard/welcome
 
 ---
 
-![10.png](attachment:01e1d02d-d9b2-4c3e-890a-ad3611f4d083:10.png)
-
 ## 07. Google AI Studio
 
 https://aistudio.google.com/
@@ -86,8 +72,6 @@ https://aistudio.google.com/
 - 과거에는 프롬프트를 테스트하는 정도에 그쳤다면, 2026년 현재의 **AI Studio**는 "빌드(Build) 모드"를 통해 실제 서비스로 작동하는 풀스택 앱을 몇 분 만에 뚝딱 만들어내는 수준으로 진화했습니다.
 
 ---
-
-![13.png](attachment:e17d3d46-73ab-4841-8d45-429842d6ea04:13.png)
 
 ## 08. Pomelli
 
@@ -98,8 +82,6 @@ https://labs.google.com/pomelli/about/
 
 ---
 
-![08.png](attachment:3ba705a5-7c78-4895-811c-4d3b8fbc77ae:08.png)
-
 ## 09. NotebookLM
 
 https://notebooklm.google/
@@ -108,8 +90,6 @@ https://notebooklm.google/
 - 일반적인 챗봇이 인터넷상의 방대한 데이터를 바탕으로 답변하는 것과 달리, NotebookLM은 오직 내가 넣어준 자료 안에서만 답을 찾습니다. 답변할 때 해당 내용이 문서의 몇 페이지, 어느 부분에서 나왔는지 ‘각주(인용구)’를 정확히 표시해주기 때문에 환각 현상(할루시네이션) 걱정 없이 전문적인 자료를 정리할 수 있습니다.
 
 ---
-
-![02.png](attachment:0b61637b-ec30-443e-9b95-15c5e4bf863f:02.png)
 
 ## 10. Google Stitch
 
@@ -120,8 +100,6 @@ https://stitch.withgoogle.com/
 
 ---
 
-![05.png](attachment:13857970-0873-49c0-b8ab-e76a3da97ba6:05.png)
-
 ## 11. Doppl
 
 https://labs.google/doppl/
@@ -130,8 +108,6 @@ https://labs.google/doppl/
 - 단순히 옷을 이미지 위에 덧씌우는 합성 수준을 넘어, 사용자의 체형에 맞춰 옷의 핏과 질감을 재현하고 **애니메이션 영상**으로 만들어 실제 입었을 때 어떤 느낌일지 생생하게 보여주는 것이 특징입니다.
 
 ---
-
-![14.png](attachment:177c5407-df48-4e6d-8fa1-199a74d2db50:14.png)
 
 ## 12. Google Food Mood
 
@@ -142,8 +118,6 @@ https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en
 
 ---
 
-![03.png](attachment:f57db5a5-fe14-4603-bb7b-fc764e7d60f6:03.png)
-
 ## 13. Google Vids
 
 https://workspace.google.com/intl/ko/products/vids/
@@ -153,8 +127,6 @@ https://workspace.google.com/intl/ko/products/vids/
 
 ---
 
-![11.png](attachment:ff4acbdc-b4e1-446b-a921-b6edeb4afacb:11.png)
-
 ## 14. Google Firebase
 
 https://firebase.google.com/?hl=ko
@@ -163,8 +135,6 @@ https://firebase.google.com/?hl=ko
 - 과거에는 개발자가 직접 서버를 세팅하고 DB를 연결해야 했던 복잡한 인프라 작업을, 이제는 Firebase Studio 내의 AI 에이전트가 대신 처리해 줍니다. "뉴스레터 구독자가 생기면 자동으로 환영 이메일을 보내는 앱 만들어줘"라고 말하면, 필요한 데이터베이스(Firestore)를 구축하고 로직(Cloud Functions)을 짠 뒤 실제 작동하는 웹 주소까지 생성해 줍니다.
 
 ---
-
-![12.png](attachment:08fa884f-3b12-4921-aa4d-10c04c46fe46:12.png)
 
 ## 15. Google Disco
 
